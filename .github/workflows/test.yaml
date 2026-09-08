@@ -18,4 +18,4 @@ jobs:
       - name: Run Tests
         run: npm test
       - name: Success Message
-        run: "All test passed successfully"
+        run: echo "All test passed successfully"
